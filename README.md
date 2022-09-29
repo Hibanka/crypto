@@ -4,7 +4,7 @@
 [![NPM Version](https://badgen.net/npm/v/@hibanka/crypto)](https://npmjs.com/package/@hibanka/crypto)
 [![Minimum Node.JS Version](https://badgen.net/npm/node/@hibanka/crypto)](https://npmjs.com/package/@hibanka/crypto)
 
-Node.js encryption/decryption library.
+Node.js library for encryption/decryption.
 
 ## Installation
 
