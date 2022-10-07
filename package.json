@@ -1,6 +1,6 @@
 {
   "name": "@hibanka/crypto",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Node.js utility library for cryptographic functions",
   "repository": "https://github.com/Hibanka/crypto",
   "main": "dist/index.js",
